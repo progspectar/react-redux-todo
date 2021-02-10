@@ -1,0 +1,27 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    public/favicon.ico
+	modified:   public/index.html
+	deleted:    public/logo192.png
+	deleted:    public/logo512.png
+	deleted:    src/App.css
+	deleted:    src/App.js
+	deleted:    src/App.test.js
+	deleted:    src/index.css
+	modified:   src/index.js
+	deleted:    src/logo.svg
+	deleted:    src/reportWebVitals.js
+	deleted:    src/setupTests.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.eslintcache
+	.vscode/
+	src/components/
+	tt
+
+no changes added to commit (use "git add" and/or "git commit -a")
